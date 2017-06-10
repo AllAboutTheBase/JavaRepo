@@ -10,6 +10,6 @@ int var;
 	}
 	public void test2()
 	{
-	System.out.println("made this method in main branch");
+	System.out.println("made this method in main branch -- in master ");
 	}
 }
