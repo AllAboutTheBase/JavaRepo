@@ -6,4 +6,8 @@ int var;
 	{
 	System.out.println("hello world display--- data branch");
 	}
+	public void test2()
+	{
+	System.out.println("made this method in main branch");
+	}
 }
